@@ -1,0 +1,114 @@
+section {
+    background-image: url(./hmm.jpg);
+    width: 1340px;
+    height: 550px;
+}
+
+.khan {
+    float: left;
+    border-radius: 10px;
+}
+
+#wow {
+    border-radius: 10px;
+    margin: 30px;
+}
+
+.khann {
+    float: right;
+}
+
+.lol {
+    background-color: black;
+    width: 1340px;
+    height: 550px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.kkk {
+    color: rgb(255, 255, 255);
+}
+
+.class {
+    background-color: rgb(0, 0, 0);
+    width: 1340px;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    */
+}
+
+.hhhhh {
+    color: rgb(255, 255, 255);
+}
+
+#id {
+    float: right;
+    color: aliceblue;
+    margin-top: -320px;
+    padding: 40px;
+}
+
+#else {
+    color: aliceblue;
+}
+
+input {
+    height: 80px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: red;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+button:focus {
+    color: black;
+}
+
+.hooo {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    width: 1340px;
+    height: 550px;
+}
+
+.hoool {
+    margin: auto;
+    float: right;
+    padding: 100px;
+}
+
+.POOO {
+    background-color: black;
+    width: 1340px;
+    height: 650px;
+}
+
+.horor {
+    background-color: rgb(0, 0, 0);
+    width: 1340px;
+    height: 550px;
+}
+
+#boot {
+    background-color: brown;
+    width: 500px;
+    height: 60px;
+}
+
+#elsel {
+    color: aliceblue;
+}
+
+#ido {
+    color: azure;
+}
